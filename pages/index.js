@@ -11,9 +11,7 @@ export default function Home() {
 
       <section className={utilStyles.headingMd}>
         <p style={{ textAlign: 'justify' }}>
-         Hi everyone! My name is Arzy Klein Espiritu, and I am 20 years old. I am a student from 
-         the University of the Assumption. I enjoy playing video games, learning about technology, 
-        and working on different projects. I am also interested in computers, cars, and motorcycles.  
+         Hi everyone! My name is Arzy Klein Espiritu, and I am 20 years old. I am a student from the Philippines. My hobbies include playing video games, learning about technology, and working with computers. I also enjoy learning about cars and motorcycles. For music, I like rock and upbeat songs, especially songs that I can listen to while relaxing or playing games. My favorite food is **Filipino food, especially chicken and other savory dishes. In five years, I see myself as a successful professional with a stable career. I hope to have improved my skills, gained more experience, and become financially independent. Most importantly, I want to continue learning and become a better version of myself. I’m looking forward to getting to know everyone and having a great experience together. Nice to meet you all!
         </p>
 
         <p>
